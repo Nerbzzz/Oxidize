@@ -13,5 +13,5 @@ cd Oxidize
 cargo build --release
 
 # Run the server
-./target/release/warehouse # or `cargo run --release`
+./target/release/oxidize # or `cargo run --release`
 ```
